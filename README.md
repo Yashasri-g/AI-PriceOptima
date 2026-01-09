@@ -98,6 +98,8 @@ The frontend dashboard allows business users to:
   * Predicted demand
   * Demand ratio
 * Display raw JSON API response
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/9ca638da-5d2c-4dec-809c-880628df0eeb" />
+
 
 The dashboard updates in real-time and provides a professional pricing control interface.
 
